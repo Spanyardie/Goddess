@@ -1,0 +1,49 @@
+<xml>
+	<goddess>
+		<version>1.0.0</version>
+		<supportedprotocols>
+			<protocol>
+				<name>udp</name>
+				<packetlength>1500</packetlength>
+				<localhost>192.168.1.34</localhost>
+				<listenport>41388</listenport>
+			</protocol>
+		</supportedprotocols>
+		<ftp>
+			<remotehost>localhost</remotehost>
+			<username>goddess5</username>
+			<password>t0p5ecret</password>
+			<ftpfilepath>C:\Projects\Visual Basic\Goddess\</ftpfilepath>
+		</ftp>
+		<logging>
+			<enabled>false</enabled>
+			<logfilepath>C:\Projects\Visual Basic\Goddess\log.txt</logfilepath>
+		</logging>
+		<messagefilepaths>
+			<messagefile>
+				<type>Scoreboard</type>
+				<path>C:\Program Files\Valve\Steam\SteamApps\Sebastian_uk\source dedicated server\hl2mp\messages\scoreboardfilters.xml</path>
+			</messagefile>
+			<messagefile>
+				<type>Watch</type>
+				<path>C:\Program Files\Valve\Steam\SteamApps\Sebastian_uk\source dedicated server\hl2mp\messages\watchfilters.xml</path>
+			</messagefile>
+			<messagefile>
+				<type>Message</type>
+				<path>C:\Program Files\Valve\Steam\SteamApps\Sebastian_uk\source dedicated server\hl2mp\messages\messages.xml</path>
+			</messagefile>
+		</messagefilepaths>
+		<validgameservers>
+			<gameserver>
+				<hostname>Merciless Game Server 1</hostname>
+				<serverip>192.168.1.37</serverip>
+				<serverport>27015</serverport>
+			</gameserver>
+			<gameserver>
+				<hostname>Merciless Game Server 2</hostname>
+				<serverip>192.168.1.33</serverip>
+				<serverport>27015</serverport>
+			</gameserver>
+			<gameserver><hostname>Hypernia BattleZone Server</hostname><serverip>71.56.123.249</serverip><serverport>27015</serverport></gameserver><gameserver><hostname>Hypernia Co-Op 2.9 Server 1</hostname><serverip>71.56.123.249</serverip><serverport>27016</serverport></gameserver><gameserver><hostname>Hypernia Co-Op 2.9 Server 2</hostname><serverip>71.56.123.249</serverip><serverport>27017</serverport></gameserver><gameserver><hostname>Merciless Internal Server</hostname><serverip>192.168.1.35</serverip><serverport>27015</serverport></gameserver></validgameservers>
+	</goddess>
+</xml>

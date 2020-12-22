@@ -1,0 +1,128 @@
+[Root]
+Most Recent Package=GODDESS Install Package Beta 1
+
+
+[Package|GODDESS Install Package Beta 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Projects\Visual Basic\Goddess\Package
+
+[Package|GODDESS Install Package Beta 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|GODDESS Install Package Beta 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|GODDESS Install Package Beta 1|Files Found]
+
+[Package|GODDESS Install Package Beta 1|Files Released]
+
+[Package|GODDESS Install Package Beta 1|Missing Dependency Information]
+C:\Projects\Visual Basic\SupportDLL\Support.dll=
+C:\Projects\Visual Basic\SilentFTP\SilentFTP.exe=
+C:\WINDOWS\system32\msxml3.dll=
+
+[Package|GODDESS Install Package Beta 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|GODDESS Install Package Beta 1|Files Added]
+C:\Projects\Visual Basic\Goddess\goddess.xml=
+C:\Projects\Visual Basic\Goddess\messages\messages.xml=
+C:\Projects\Visual Basic\Goddess\messages\scoreboardfilters.xml=
+C:\Projects\Visual Basic\Goddess\messages\watchfilters.xml=
+
+[Package|GODDESS Install Package Beta 1|Files Removed]
+
+[Package|GODDESS Install Package Beta 1|Files In Project]
+C:\Projects\Visual Basic\Goddess\goddess.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=Yes
+C:\WINDOWS\system32\msxml3.dll=Yes
+C:\Projects\Visual Basic\SilentFTP\SilentFTP.exe=Yes
+C:\Projects\Visual Basic\SupportDLL\Support.dll=Yes
+C:\WINDOWS\system32\MSWINSCK.OCX=Yes
+C:\WINDOWS\system32\MSINET.OCX=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\TABCTL32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Projects\Visual Basic\Goddess\goddess.xml=Yes
+C:\Projects\Visual Basic\Goddess\messages\messages.xml=Yes
+C:\Projects\Visual Basic\Goddess\messages\scoreboardfilters.xml=Yes
+C:\Projects\Visual Basic\Goddess\messages\watchfilters.xml=Yes
+
+[Package|GODDESS Install Package Beta 1|Configure Registry Files]
+Applicable=No
+
+[Package|GODDESS Install Package Beta 1|Configure Remote Servers]
+Applicable=No
+
+[Package|GODDESS Install Package Beta 1|Install Locations]
+C:\Projects\Visual Basic\Goddess\goddess.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msxml3.dll=$(WinSysPath)
+C:\Projects\Visual Basic\SilentFTP\SilentFTP.exe=$(AppPath)
+C:\Projects\Visual Basic\SupportDLL\Support.dll=$(AppPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\TABCTL32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Projects\Visual Basic\Goddess\goddess.xml=$(AppPath)
+C:\Projects\Visual Basic\Goddess\messages\messages.xml=$(AppPath)\messages
+C:\Projects\Visual Basic\Goddess\messages\scoreboardfilters.xml=$(AppPath)\messages
+C:\Projects\Visual Basic\Goddess\messages\watchfilters.xml=$(AppPath)\messages
+
+[Package|GODDESS Install Package Beta 1|Configure Shared Files]
+Applicable=Yes
+C:\Projects\Visual Basic\Goddess\goddess.exe=No
+C:\Projects\Visual Basic\SilentFTP\SilentFTP.exe=No
+C:\Projects\Visual Basic\SupportDLL\Support.dll=No
+C:\Projects\Visual Basic\Goddess\goddess.xml=No
+C:\Projects\Visual Basic\Goddess\messages\messages.xml=No
+C:\Projects\Visual Basic\Goddess\messages\scoreboardfilters.xml=No
+C:\Projects\Visual Basic\Goddess\messages\watchfilters.xml=No
+
+[Package|GODDESS Install Package Beta 1|Distribution]
+Type=single
+Size=
+Title=Goddess Beta Version 1.0
+
+[Package|GODDESS Install Package Beta 1|Package]
+PackageFolder=C:\Projects\Visual Basic\Goddess\Package
+ProjectFolder=C:\Projects\Visual Basic\Goddess
+ServerSideCab=
+File1=C:\Projects\Visual Basic\Goddess\Package\setup.exe
+File2=C:\Projects\Visual Basic\Goddess\Package\Setup.Lst
+File3=C:\Projects\Visual Basic\Goddess\Package\goddess.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|GODDESS Install Package Beta 1|IconGroups]
+Group0=Goddess Beta Version 1.0
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|GODDESS Install Package Beta 1|Goddess Beta Version 1.0]
+Icon1=goddess.exe
+Title1=Goddess Beta Version 1.0
+StartIn1=$(AppPath)
+Key1=Icon1

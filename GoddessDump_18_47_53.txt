@@ -1,0 +1,24 @@
+ÿÿÿÿRL 11/07/2007 - 18:46:50: server cvars start
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: "cl_elimination_mode" = "1"
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: "story_mode" = "0"
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: "mp_friendlyfire" = "0"
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: "sv_gravity" = "600"
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: "clan_name" = "Rebels"
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: "difficulty" = "0"
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: "sv_deathpenaltyother" = "-10"
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: "game_mode" = "coop"
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: "sv_cheats" = "0"
+
+ÿÿÿÿRL 11/07/2007 - 18:46:50: server cvars end
+
+ÿÿÿÿRL 11/07/2007 - 18:46:51: Started map "ff_readyroom" (CRC "653676949")
+

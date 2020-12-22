@@ -1,0 +1,171 @@
+GameServerIP 192.168.1.37
+GameServerPort 27015
+StatReportDate 05/11/2007
+StatReportTime 22:55:25
+loading map 
+server cvars start _Located_
+cl_elimination_mode 1
+story_mode 0
+ff_racing_laps 5
+mp_friendlyfire 0
+sv_gravity 600
+clan_name Rebels
+difficulty 4
+sv_deathpenaltyother -10
+game_mode coop
+sv_cheats 1
+server cvars end _Located_
+started map 
+joined team Spanyardie(STEAM_ID_LAN)-Rebels
+entered the game Spanyardie(STEAM_ID_LAN)-playing
+game_mode coop
+story_mode 0
+cl_elimination_mode 1
+mp_friendlyfire 0
+difficulty 4
+loading map 
+server cvars start _Located_
+cl_elimination_mode 1
+story_mode 0
+ff_racing_laps 5
+mp_friendlyfire 0
+sv_gravity 600
+clan_name Rebels
+difficulty 4
+sv_deathpenaltyother -10
+game_mode coop
+sv_cheats 0
+server cvars end _Located_
+started map 
+joined team Spanyardie(STEAM_ID_LAN)-Rebels
+entered the game Spanyardie(STEAM_ID_LAN)-playing
+sv_cheats 1
+sv_cheats sv_cheats 1
+statistics begin _Located_
+stats playername Spanyardie
+stats totalpoints 50
+stats totalkills 0
+stats friendlykills 0
+stats sniperkills 0
+stats sniperpoints 0
+stats headcrabkills 0
+stats headcrabpoints 0
+stats headcrabfastkills 0
+stats headcrabfastpoints 0
+stats headcrabblackkills 0
+stats headcrabblackpoints 0
+stats zombiepoisonkills 0
+stats zombiepoisonpoints 0
+stats zombiekills 0
+stats zombiepoints 0
+stats zombinekills 0
+stats zombinepoints 0
+stats zombiefastkills 0
+stats zombiefastpoints 0
+stats zombietorsokills 0
+stats zombietorsopoints 0
+stats striderkills 0
+stats striderpoints 0
+stats combinesoldierkills 0
+stats combinesoldierpoints 0
+stats combinesupersoldierkills 0
+stats combinesupersoldierpoints 0
+stats metropolicekills 0
+stats metropolicepoints 0
+stats manhackkills 0
+stats manhackpoints 0
+stats barnaclekills 0
+stats barnaclepoints 0
+stats antlionkills 0
+stats antlionpoints 0
+stats antlionguardkills 0
+stats antlionguardpoints 0
+loading map ff_readyroom
+server cvars start _Located_
+cl_elimination_mode 1
+story_mode 0
+ff_racing_laps 5
+mp_friendlyfire 0
+sv_gravity 600
+clan_name Rebels
+difficulty 4
+sv_deathpenaltyother -10
+game_mode coop
+sv_cheats 1
+server cvars end _Located_
+started map ff_readyroom
+joined team Spanyardie(STEAM_ID_LAN)-Rebels
+entered the game Spanyardie(STEAM_ID_LAN)-playing
+game_mode coop
+story_mode 0
+cl_elimination_mode 1
+mp_friendlyfire 0
+difficulty 4
+loading map ff_bz_lighthouse_1
+server cvars start _Located_
+cl_elimination_mode 1
+story_mode 0
+ff_racing_laps 5
+mp_friendlyfire 0
+sv_gravity 600
+clan_name Rebels
+difficulty 4
+sv_deathpenaltyother -10
+game_mode coop
+sv_cheats 0
+server cvars end _Located_
+started map ff_bz_lighthouse_1
+joined team Spanyardie(STEAM_ID_LAN)-Rebels
+entered the game Spanyardie(STEAM_ID_LAN)-playing
+sv_cheats 1
+sv_cheats sv_cheats 1
+statistics begin _Located_
+stats playername Spanyardie
+stats totalpoints 50
+stats totalkills 0
+stats friendlykills 0
+stats sniperkills 0
+stats sniperpoints 0
+stats headcrabkills 0
+stats headcrabpoints 0
+stats headcrabfastkills 0
+stats headcrabfastpoints 0
+stats headcrabblackkills 0
+stats headcrabblackpoints 0
+stats zombiepoisonkills 0
+stats zombiepoisonpoints 0
+stats zombiekills 0
+stats zombiepoints 0
+stats zombinekills 0
+stats zombinepoints 0
+stats zombiefastkills 0
+stats zombiefastpoints 0
+stats zombietorsokills 0
+stats zombietorsopoints 0
+stats striderkills 0
+stats striderpoints 0
+stats combinesoldierkills 0
+stats combinesoldierpoints 0
+stats combinesupersoldierkills 0
+stats combinesupersoldierpoints 0
+stats metropolicekills 0
+stats metropolicepoints 0
+stats manhackkills 0
+stats manhackpoints 0
+stats barnaclekills 0
+stats barnaclepoints 0
+stats antlionkills 0
+stats antlionpoints 0
+stats antlionguardkills 0
+stats antlionguardpoints 0
+stats scannerkills 0
+stats scannerpoints 0
+stats combinedropshipkills 0
+stats combinedropshippoints 0
+stats combinegunshipkills 0
+stats combinegunshippoints 0
+stats helicopterkills 0
+stats helicopterpoints 0
+stats apckills 0
+stats apcpoints 0
+statistics end _Located_

@@ -1,0 +1,49 @@
+LAST 10 ENTRIES FOR A PLAYER, ORDERED BY DATE/TIME (Player home page)
+---------------------------------------------
+SELECT * FROM `highscores` INNER JOIN `individual` ON `highscores`.`IndividualID` = `individual`.`IndividualID` WHERE `individual`.`SteamID` = 'STEAM_ID_SEB' ORDER BY `highscores`.`SessionDate` DESC LIMIT 0, 10
+
+
+ALL HIGH SCORE ENTRIES FOR A PLAYER, ORDERED BY DATE/TIME (player high score page)
+----------------------------------------------------
+SELECT * FROM `highscores` INNER JOIN `individual` ON `highscores`.`IndividualID` = `individual`.`IndividualID` WHERE `individual`.`SteamID` = 'STEAM_ID_SEB' ORDER BY `highscores`.`SessionDate` DESC
+
+
+ALL PLAYERS IN A PARTICULAR CLAN (Clan home page)
+--------------------------------
+SELECT `individual`.`FirstName`, `individual`.`Surname`, `individual`.`Tag` FROM `individual` INNER JOIN `clan` ON `individual`.`clanid` = `clan`.`clanid` WHERE `clan`.`clanname` = '[BLOODCLAT-CLAN]' LIMIT 0, 100
+
+
+ALL PLAYERS SCORES - TOP DOWN
+-----------------------------
+
+**** EACH ONE OF THESE CAN BE ORDERED BY NUMBER OF PLAYERS IN CLAN ***
+**** ALSO EACH ONE CAN BE FURTHER SUBDIVIDED INTO REGION ****
+
+ALL PLAYERS IN A PARTICULAR CLAN, WITH INDIVIDUAL ID FOR FURTHER LINKS (Clan home page)
+----------------------------------------------------------------------
+SELECT `individual`.`FirstName`, `individual`.`Surname`, `individual`.`Tag`, `individual`.`individualid` FROM `individual` INNER JOIN `clan` ON `individual`.`clanid` = `clan`.`clanid` WHERE `clan`.`clanname` = '[BLOODCLAT-CLAN]' LIMIT 0, 100
+
+
+
+ALL SCORES FOR CLAN FOR A PARTICULAR CHAPTER END MAP (High scores by chapter)
+------------------------------------------------
+
+
+ALL SCORES FOR CLAN CHAPTER END ELIMINATION MODE ON/OFF (HIGH SCORES BY CHAPTER)
+--------------------------------------------------------------------------------
+
+ALL SCORES FOR CLAN CHAPTER END ORDERED BY DIFFICULTY (HIGH SCORES BY CHAPTER)
+------------------------------------------------------------------------------
+
+ALL SCORES FOR CLAN CHAPTER END ORDERED BY TIME (HIGH SCORES BY CHAPTER)
+------------------------------------------------------------------------
+
+ACROSS THE BOARD CLAN RANKING (AVERAGING OVER ALL MAPS)
+--------------------------------------------------
+
+ACROSS THE BOARD PLAYER RANKING FOR KILLS/POINTS OF EACH NPC'S
+-------------------------------------------------------
+
+KILL TO DEATH RATIOS FOR PLAYERS OVER CHAPTERS AND ACROSS THE BOARD
+-------------------------------------------------------------------
+
